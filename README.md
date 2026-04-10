@@ -234,13 +234,6 @@ Install all required Python libraries:
 
 ```bash
 pip install opencv-python mediapipe pillow scipy pygame
-```
-
-Or if you have a requirements file:
-
-```bash
-pip install -r requirements.txt
-```
 
 ---
 
